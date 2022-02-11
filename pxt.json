@@ -1,5 +1,5 @@
 {
-    "name": "journey to the river sea-school-liam C 6ra",
+    "name": "river sea-liam C 6ra",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -10,13 +10,15 @@
         "README.md",
         "assets.json",
         "images.g.jres",
-        "images.g.ts"
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.7.24",
+        "target": "1.8.17",
         "targetId": "arcade"
     },
     "supportedTargets": [
